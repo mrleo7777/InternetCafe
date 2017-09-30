@@ -51,11 +51,13 @@ body{
   margin-top: 60px;
 }
 #promo .jumbotron{
-  border-radius:20px;
-  padding:40px;
-  background-color:rgba(255,255,255,0.75);
-  max-width:800px;
-  margin:50px auto;
+     border-radius: 20px;
+    padding: 40px;
+    background-color: rgba(255,255,255,0.75);
+    max-width: 800px;
+    margin: 0 auto;
+    height: 500px;
+    width: 450px;
 }
 
 @media (max-width:991px) {
