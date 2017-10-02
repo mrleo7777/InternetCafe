@@ -14,7 +14,7 @@ body{
 
 .myhome{
   text-align:center;
-  padding-top: 200px;
+  padding-top: 80px;
   padding-left:500px;
   background:url(../../assets/img/internetcafebg.png) no-repeat;
   background-size:cover;
@@ -22,11 +22,13 @@ body{
   height: 881px;
   max-height: 881px;
 }
-.myskills{
+.mypromos{
   text-align:center;
-  padding:40px;
-  background:url(../../assets/img/programming.jpg) no-repeat;
-  background-size:cover;
+  padding:130px;
+  background:url(../../assets/img/promo2.jpg) no-repeat;
+  background-size:contain;
+  border-style: solid;
+    border-bottom: thick dotted #ff0000;
   margin-top:64px;
   height: 881px;
   max-height: 881px;
@@ -56,7 +58,7 @@ body{
     background-color: rgba(255,255,255,0.75);
     max-width: 800px;
     margin: 0 auto;
-    height: 500px;
+    height: 380px;
     width: 450px;
 }
 
@@ -114,6 +116,10 @@ body{
   color:rgb(91,103,109);
   font-size: 16px;
   text-align: justify;
+}
+
+.fa-tachometer{
+  padding-left: 2em;
 }
 
 #logo{
