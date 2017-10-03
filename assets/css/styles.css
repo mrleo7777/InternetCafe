@@ -25,10 +25,8 @@ body{
 .mypromos{
   text-align:center;
   padding:130px;
-  background:url(../../assets/img/promo2.jpg) no-repeat;
-  background-size:contain;
-  border-style: solid;
-  border-bottom: thick dotted #ff0000;
+  background:url(../../assets/img/promobg.png) no-repeat;
+  background-size:100%;
   margin-top:64px;
   height: 881px;
   max-height: 881px;
