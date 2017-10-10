@@ -31,10 +31,10 @@ body{
   height: 881px;S
   max-height: 881px;
 }
-.myachieve{
+.myabout{
   text-align:center;
   padding:40px;
-  background:url(../../assets/img/orig.jpg) no-repeat;
+  background:url(../../assets/img/promobg.png) no-repeat;
   background-size:cover;
   margin-top:64px;
   height: 881px;
