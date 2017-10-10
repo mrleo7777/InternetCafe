@@ -93,6 +93,10 @@ body{
   color:#666;
 }
 
+#welcome{
+  margin-top: 50px;
+}
+
 #why .item{
   padding-top:36px;
 }
