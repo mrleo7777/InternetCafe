@@ -83,6 +83,10 @@ body{
   color:#222;
 }
 
+#welcome{
+  margin-top: 30px;
+}
+
 #why .item{
   padding-top:36px;
 }
